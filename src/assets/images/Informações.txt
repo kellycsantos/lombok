@@ -1,0 +1,16 @@
+Paleta:
+background article: #f2f4f1
+background card : #fbfbfb
+background submit : #dfe4de
+background input : #eff1ee
+background icon : #465f63
+texto destaque : #474e47
+texto padr�o : #161716
+
+
+Fonte:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;200;400;600&display=swap" rel="stylesheet"> 
+
+font-family: 'Vazirmatn', sans-serif;
